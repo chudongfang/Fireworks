@@ -463,7 +463,7 @@ void xinyue(DWORD& tx)
 	}
 }
 
-/**********************qq头像**********************/
+/**********************加载qq1.jpg**********************/
 void word(DWORD& tw)
 {
 	DWORD t1=timeGetTime();
@@ -489,7 +489,7 @@ void word(DWORD& tw)
 	}
 }
 
-/*******************新年祝愿*****************************/
+/*******************加载new year.jpg*****************************/
 void newyear(DWORD& tr)
 {
 	DWORD t1=timeGetTime();
@@ -507,7 +507,7 @@ void newyear(DWORD& tr)
 	}
 }
 
-/*******************愿你快乐*********************/
+/*******************加载happy2016.jpg*********************/
 void happy(DWORD& th)
 {
 	DWORD t1=timeGetTime();
